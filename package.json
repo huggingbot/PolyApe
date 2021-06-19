@@ -24,7 +24,6 @@
     "pretest": "yarn compile",
     "test": "npx hardhat test",
     "lint": "prettier ./test/**/*.ts --check",
-    "prepublishOnly": "yarn test",
     "remixd": "npx remixd -S contracts"
   },
   "bugs": {
