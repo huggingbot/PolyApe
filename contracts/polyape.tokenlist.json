@@ -1,0 +1,22 @@
+{
+  "name": "PolyApe Token List",
+  "timestamp": "2021-06-19T09:22:22.160Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "",
+  "keywords": ["uniswap", "default"],
+  "tokens": [
+    {
+      "name": "PolyApe",
+      "address": "0xE81DEe434e0E4cB80B071995eafD598a1999CC85",
+      "symbol": "PAPE",
+      "decimals": 18,
+      "chainId": 80001,
+      "logoURI": ""
+    }
+  ]
+}
