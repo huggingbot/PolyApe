@@ -7,7 +7,7 @@
     "patch": 1
   },
   "tags": {},
-  "logoURI": "",
+  "logoURI": "ipfs://QmQcyEx3sASqfh79ERN8WcEWTq9h2Y4TiyxS3Ud2JXtnhK",
   "keywords": ["uniswap", "default"],
   "tokens": [
     {
@@ -16,7 +16,7 @@
       "symbol": "PAPE",
       "decimals": 18,
       "chainId": 80001,
-      "logoURI": ""
+      "logoURI": "ipfs://QmQcyEx3sASqfh79ERN8WcEWTq9h2Y4TiyxS3Ud2JXtnhK"
     }
   ]
 }
