@@ -4,7 +4,7 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 2
+    "patch": 4
   },
   "tags": {},
   "logoURI": "ipfs://QmQcyEx3sASqfh79ERN8WcEWTq9h2Y4TiyxS3Ud2JXtnhK",
@@ -12,7 +12,7 @@
   "tokens": [
     {
       "name": "PolyApe",
-      "address": "0xE81DEe434e0E4cB80B071995eafD598a1999CC85",
+      "address": "0x46e9A78127720F3Bc2694Dc2d7A7c49c003670b1",
       "symbol": "PAPE",
       "decimals": 18,
       "chainId": 80001,
